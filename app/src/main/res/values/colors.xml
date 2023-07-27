@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="black">#C54343</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#3F51B5</color> <!-- Replace this with your desired primary color -->
+
+
+    <!--These colors are used in app theme in actionbar-->
+    <color name="colorPrimary">#9710B6</color> <!-- Replace this with your desired primary color -->
+    <color name="colorPrimaryVariant">#098805</color>
+
+
 </resources>
