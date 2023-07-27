@@ -11,7 +11,7 @@
 
 <resources>
 
-    <style name="GreenText" parent="TextAppearance.AppCompat">
+    <style name="MyTheme" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:textColor">#00FF00</item>
     </style>
 
