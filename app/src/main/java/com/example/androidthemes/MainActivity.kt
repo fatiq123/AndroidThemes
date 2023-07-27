@@ -7,12 +7,18 @@ import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
 import android.widget.Toast
+import android.widget.Toolbar
 
 class MainActivity : AppCompatActivity() {
     private lateinit var button: Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val toolbar: androidx.appcompat.widget.Toolbar? = findViewById<androidx.appcompat.widget.Toolbar>(R.id.toolbar)
+        setSupportActionBar(toolbar)
+
+
 
         button = findViewById(R.id.button)
 
