@@ -8,7 +8,7 @@
     <color name="colorPrimary">#4A8A28</color> <!-- Replace this with your desired primary color -->
     <color name="colorPrimaryVariant">#098805</color>
 
-
+    <!--These colors are for second activity-->
     <color name="colorPrimarySecond">#D61C5B</color>
     <color name="colorPrimaryVariant2">#FD0056</color>
 
