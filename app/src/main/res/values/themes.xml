@@ -26,6 +26,7 @@
         <item name="colorPrimaryVariant">@color/colorPrimaryVariant2</item>
 
 
+
         <item name="android:statusBarColor">@color/colorPrimaryVariant2</item>
 
     </style>
