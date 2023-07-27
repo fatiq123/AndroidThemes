@@ -4,6 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="accent">#59C0EF</color>
 
+
     <!--These colors are used in app theme in actionbar-->
     <color name="colorPrimary">#4A8A28</color> <!-- Replace this with your desired primary color -->
     <color name="colorPrimaryVariant">#098805</color>

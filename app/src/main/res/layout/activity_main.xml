@@ -10,7 +10,7 @@
 
     <include
         layout="@layout/toolbar"
-        android:id="@+id/toolbar"/>
+        android:id="@+id/toobar"/>
 
     <Button
         android:id="@+id/button"
