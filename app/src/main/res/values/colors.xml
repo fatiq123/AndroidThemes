@@ -9,4 +9,7 @@
     <color name="colorPrimaryVariant">#098805</color>
 
 
+    <color name="colorPrimarySecond">#D61C5B</color>
+    <color name="colorPrimaryVariant2">#FD0056</color>
+
 </resources>

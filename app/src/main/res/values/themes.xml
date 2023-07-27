@@ -19,6 +19,16 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
     </style>
 
+
+    <style name="MyTheme2" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimarySecond</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant2</item>
+
+
+        <item name="android:statusBarColor">@color/colorPrimaryVariant2</item>
+
+    </style>
 </resources>
 
 
